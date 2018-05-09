@@ -8,4 +8,4 @@ A set of self-implemented (midi) music generation examples.
 - xxx
 
 ## Datasets used
-- [lpd-5-cleansed] (https://salu133445.github.io/lakh-pianoroll-dataset/dataset)
+- [lpd-5-cleansed](https://salu133445.github.io/lakh-pianoroll-dataset/dataset "Lakh Pianoroll Dataset")
