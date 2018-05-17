@@ -3,5 +3,8 @@
 # IntelliJ IDEA Project files
 .idea
 
+# Git files
+.git
+
 # MS files
 .docx
