@@ -13,8 +13,11 @@ This project includes a set of self-implemented (midi) music generation baseline
 
 ![Piano roll](https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_pianoroll.png)
 
-<audio controls="controls" preload="preload" src="https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_test.mp3">  
-rnn_test.mp3
+<audio controls="controls">
+ <source src="https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_test.mp3" type="audio/wav">
+
+		  Your browser does not support audio.
+
 </audio>
 
 ## Getting Started
