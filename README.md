@@ -3,9 +3,9 @@ This project includes a set of self-implemented (midi) music generation baseline
 
 ## Models included
 
-**RNN**
+- **RNN**
 
-**(coming soon...)**
+- **(coming soon...)**
 
 ## Let's see some results first
 
@@ -13,10 +13,9 @@ This project includes a set of self-implemented (midi) music generation baseline
 
 ![Piano roll](https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_pianoroll.png)
 
-<audio controls="controls" preload="preload" autoplay="autoplay">  
-        <source src="https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_test.mp3" >  
-        test-generate-midi  
-</audio></span></span>
+<audio controls="controls" preload="preload" src="https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_test.mp3">  
+test-generate-midi
+</audio>
 
 ## Getting Started
 `music_generation_baselines` should work in Windows, Linux and MacOS environments. Open a terminal and run:
