@@ -11,7 +11,12 @@ This project includes a set of self-implemented (midi) music generation baseline
 
 ### RNN
 
-![Piano roll](图片链接 "optional title")
+![Piano roll](https://github.com/BerylJia/music_generation_baselines/blob/master/logdir/20180518-1030/results/Test.png)
+
+<audio controls="controls" preload="preload" autoplay="autoplay">  
+        <source src="http://other.web.ra01.sycdn.kuwo.cn/resource/n3/128/17/55/3616442357.mp3" type="audio/mp3" >  
+        您所用的浏览器不支持HTML5 audio标签。  
+</audio></span></span>
 
 ## Getting Started
 `music_generation_baselines` should work in Windows, Linux and MacOS environments. Open a terminal and run:
