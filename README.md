@@ -14,7 +14,7 @@ This project includes a set of self-implemented (midi) music generation baseline
 ![Piano roll](https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_pianoroll.png)
 
 <audio controls="controls" preload="preload" autoplay="autoplay">  
-        <source src="https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_test.mid" >  
+        <source src="https://github.com/BerylJia/music_generation_baselines/raw/master/docs/rnn_test.mp3" >  
         test-generate-midi  
 </audio></span></span>
 
